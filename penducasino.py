@@ -1,7 +1,7 @@
 # -*-coding:utf-8 -*
-import os
-from fonctions import *
 from math import ceil
+
+from fonctions import *
 
 remember = False
 game = False
