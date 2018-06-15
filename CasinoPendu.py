@@ -293,6 +293,6 @@ while not game:
         if jeux_pendu is False:
             ajoutS(score)
             print()
-            print("GOOD BYE, Thanks to you to try me ^____^ \n"
-                  "Remerciement à Alice, Pouya, Drey")
+            print("GOOD BYE, Thanks to you to try me ^____^ \n",
+                  remerciements)
             print()
