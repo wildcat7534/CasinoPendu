@@ -14,12 +14,12 @@
  1. Addition of readme markdown.
  
 ##### V1.1
- l. First modification from initial commit  
+ 1. First modification from initial commit  
 
 
 #### CasinoPendu 2.1 :
 
- - rename penducasino.py to CasinoPendu.py
+ rename penducasino.py to CasinoPendu.py
 
  * Pendu:
 
