@@ -23,20 +23,20 @@
 
  * Pendu:
 
- + add "remerciement" end credit (variable)
+ 1. add "remerciement" end credit (variable)
 
- + add "é" and "è" automaticly reveal !
+ 1. add "é" and "è" automaticly reveal !
 
- l. minor fix 
+ 1. minor fix 
 
- l. stop loosing point if the player try again a bad letter !
+ 1. stop loosing point if the player try again a bad letter !
 
- l. add a print to specify the bad letter is already tryed
+ 1. add a print to specify the bad letter is already tryed
 
- l. repeat the guessing word to avoid scrolling upper
+ 1. repeat the guessing word to avoid scrolling upper
 
- l. rename file : fonctions.py to fonctionsPenduCasino.py
+ 1. rename file : fonctions.py to fonctionsPenduCasino.py
 
  * casino:
 
- l. add "remerciement" end credit (variable)
+ 1. add "remerciement" end credit (variable)
