@@ -58,6 +58,10 @@ def CheatCode(nom_du_joueur, mot):
               "Tu entre en mode GodeMode : your intelligence up to 23, you guess and \n"
               "you feel every words asked in pendu !")
         print("CheatCode ON :", mot)
+    elif nom_du_joueur == 'drey':
+        print("Hey Drey ! Tu essais mon jeux ? :D\n"
+              "merci de m'avoir trouvé ces bugs la dernière fois :)\n"
+              "CheatCode ON :", mot)
 
 
 

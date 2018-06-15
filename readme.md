@@ -40,3 +40,7 @@
  * casino:
 
  1. add "remerciement" end credit (variable)
+ 
+ #### CasinoPendu 2.1.1
+ 
+ 1. add New nickname in CheatCode
