@@ -23,9 +23,9 @@
 
  * Pendu:
 
- l. add "remerciement" end credit (variable)
+ + add "remerciement" end credit (variable)
 
- l. add "é" and "è" automaticly reveal !
+ + add "é" and "è" automaticly reveal !
 
  l. minor fix 
 
