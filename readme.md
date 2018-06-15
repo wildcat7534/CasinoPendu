@@ -17,7 +17,7 @@
  - first modification from initial commit  
 
 
-######CasinoPendu 2.1 :
+###### CasinoPendu 2.1 :
 
 - rename penducasino.py to CasinoPendu.py
 
