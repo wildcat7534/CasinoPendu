@@ -146,7 +146,6 @@ while not game:
 
     while pendu:
         mot_pendu = openMotPendu()
-        print(mot_pendu)
         chiffres_interdits = "1234567890"
         E = "é"
         e = "è"
