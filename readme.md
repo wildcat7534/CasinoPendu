@@ -17,26 +17,26 @@
  - first modification from initial commit  
 
 
-###### **CasinoPendu** 2.1 :
+##### **CasinoPendu** 2.1 :
 
 - rename penducasino.py to CasinoPendu.py
 
-Pendu:
+ * Pendu:
 
-l.add "remerciement" end credit (variable)
+ l. add "remerciement" end credit (variable)
 
-l.add "é" and "è" automaticly reveal !
+ l. add "é" and "è" automaticly reveal !
 
-l.minor fix 
+ l. minor fix 
 
-l.stop loosing point if the player try again a bad letter !
+ l. stop loosing point if the player try again a bad letter !
 
-l.add a print to specify the bad letter is already tryed
+ l. add a print to specify the bad letter is already tryed
 
-l.repeat the guessing word to avoid scrolling upper
+ l. repeat the guessing word to avoid scrolling upper
 
-l.rename file : fonctions.py to fonctionsPenduCasino.py
+ l. rename file : fonctions.py to fonctionsPenduCasino.py
 
-casino:
+ * casino:
 
-l.add "remerciement" end credit (variable)
+ l. add "remerciement" end credit (variable)
