@@ -10,7 +10,7 @@
 ### Exercise:
  * To make a "pendu" from Mooc OpenClassRooms.com   # I add the casino's exercise into to made 1 SuperGame
  
- 1. 4files : data.py, fonctions.py, pendu.py and scores  
+ 1. 4files : data.py, fonctions.py, pendu.py and scores (in fact is : CasinoPendu.py, Score, fonctionsPenduCasino.py, )
 
 #### CHANGE LOG
 ##### V1
@@ -26,6 +26,8 @@
  1. Clean principal modul and all is in Fonctions() !
  
  1. Translation in English of certain variable, fonction etc.
+ 
+ 1. change donnees for data to keep scoring
 
 #### CasinoPendu 2.1 :
 
