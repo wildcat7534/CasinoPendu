@@ -7,6 +7,10 @@
  * Python 3
  * SOLID principles
  
+### Exercise:
+ * To make a "pendu" from Mooc OpenClassRooms.com   # I add the casino's exercise into to made 1 SuperGame
+ 
+ 1. 4files : data.py, fonctions.py, pendu.py and scores  
 
 #### CHANGE LOG
 ##### V1
