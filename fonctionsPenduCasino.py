@@ -42,7 +42,7 @@ def openScore() :
     with open('donnees', 'rb') as fichier:
         mon_depickler = pickle.Unpickler(fichier)
         score = mon_depickler.load()
-        print('scores chargés :', score,'\n')
+        #print('scores chargés :', score,'\n')
         return score
 
 

@@ -19,7 +19,13 @@
  
 ##### V1.1
  1. First modification from initial commit  
+ 
 
+#### CasinoPendu 3.1 :
+
+ 1. Clean principal modul and all is in Fonctions() !
+ 
+ 1. Translation in English of certain variable, fonction etc.
 
 #### CasinoPendu 2.1 :
 
